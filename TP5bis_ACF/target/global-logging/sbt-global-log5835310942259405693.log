@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(a3eab3a7-fdc7-46cb-a404-6f83e17b327d), Some(CommandSource(console0)))[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mcompiling 4 Scala sources to /home/saru_k/Downloads/AFC/TP5bis_ACF/target/scala-2.13/classes ...[0m[0J
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 13 s, completed Nov 3, 2020 10:39:34 AM[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m[0J
